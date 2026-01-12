@@ -1,8 +1,6 @@
-input.onButtonPressed(Button.A, function () {
-    if (true) {
-        basic.showString("Hello!")
-    }
-})
-basic.forever(function () {
-	
-})
+let A = 150
+let B = 20
+if (A > B) {
+    basic.showString("yoyothefirst!")
+}
+
